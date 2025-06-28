@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a results-driven engineer with a hybrid skill set in Data Science, ML/AI, Cloud Engineering, and Project Management. I specialize in turning complex data into deployable, scalable solutions — and leading teams to deliver real-world impact. From models to infrastructure, I build with purpose.
+Hi, I’m a results-driven engineer with a hybrid skill set in Data Science, ML/AI, Cloud Engineering, and Project Management. I specialize in turning complex business, data, cloud, and AI problems into deployable, scalable solutions — and leading teams to deliver real-world impact. From models to infrastructure, I build with purpose.
 
 
 ## 🌐 Socials:
